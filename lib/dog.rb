@@ -4,5 +4,5 @@ class Dog
   end
   def initialize(dog_breed)
       @breed = dog_breed
-  end 
+  end
 end
